@@ -1,0 +1,3 @@
+Derick
+Ghana
+Version control
